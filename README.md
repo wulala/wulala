@@ -1,16 +1,13 @@
-### Hi there 👋
+### 乌拉拉是我。
 
-<!--
-**wulala/wulala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+大街上，有个小男孩吵着要买棉花糖。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+妈妈指着他手里的小糖人，说：“刚买的孙悟空还没吃呢，怎么还要？”
+
+小男孩不听，赖在原地，非要买棉花糖不可。
+
+妈妈没办法，只好同意了。
+
+小男孩终于拿到了棉花糖，开心地对小糖人说：“大圣你看，你的筋斗云来了！”
